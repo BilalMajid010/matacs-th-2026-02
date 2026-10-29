@@ -1,0 +1,7 @@
+{
+ "A": {"licence_held": true,  "wsib_confirmed": true, "insurance_5m_confirmed": true, "injection_flag": false, "qualifying_installs": 14, "price": 238000, "weeks": 12, "panel_years": 25, "workmanship_years": 10, "lead_named": true, "crew_stated": true, "safety_plan": true, "monitoring_plan": true},
+ "B": {"licence_held": false, "wsib_confirmed": true, "insurance_5m_confirmed": true, "injection_flag": false, "qualifying_installs": 6, "price": 189500, "weeks": 10, "panel_years": 25, "workmanship_years": 5, "lead_named": false, "crew_stated": false, "safety_plan": false, "monitoring_plan": false},
+ "C": {"licence_held": true,  "wsib_confirmed": true, "insurance_5m_confirmed": true, "injection_flag": true,  "qualifying_installs": 9, "price": 244000, "weeks": 14, "panel_years": 25, "workmanship_years": 10, "lead_named": true, "crew_stated": true, "safety_plan": false, "monitoring_plan": false},
+ "D": {"licence_held": true,  "wsib_confirmed": true, "insurance_5m_confirmed": true, "injection_flag": false, "qualifying_installs": 11, "price": 231000, "weeks": null, "panel_years": 25, "workmanship_years": 10, "lead_named": true, "crew_stated": false, "safety_plan": true, "monitoring_plan": false},
+ "E": {"licence_held": true,  "wsib_confirmed": true, "insurance_5m_confirmed": true, "injection_flag": false, "qualifying_installs": 8, "price": 242500, "weeks": 13, "panel_years": 25, "workmanship_years": 12, "lead_named": true, "crew_stated": true, "safety_plan": true, "monitoring_plan": true}
+}

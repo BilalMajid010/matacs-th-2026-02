@@ -1,0 +1,8 @@
+{
+  "version": "solar-commercial-v1",
+  "budget_ceiling": 260000,
+  "max_weeks": 16,
+  "weights": {"experience": 30, "price": 25, "timeline": 15, "warranty": 15, "team": 15},
+  "experience_full_marks_at": 10,
+  "warranty_full_marks": {"panel_years": 25, "workmanship_years": 12}
+}
